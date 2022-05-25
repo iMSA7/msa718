@@ -8,3 +8,8 @@
 # GitLab
 Link to the project repository:\
 https://git-teaching.cs.bham.ac.uk/mod-ug-proj-2020/msa718
+
+### Issues Log:
+
+- **2022** Yahoo Finance API is no longer supported by Yahoo.
+  - Not yet Fixed.
